@@ -1,5 +1,5 @@
 # 图表数据集
-## 数据集连接
+## 数据集链接
 ChartQA ： https://github.com/vis-nlp/ChartQA  
 FigureQA ： https://github.com/Maluuba/FigureQA  
 PlotQA ： https://github.com/NiteshMethani/PlotQA  
