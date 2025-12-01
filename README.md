@@ -10,7 +10,7 @@ DVQA ： https://github.com/kushalkafle/DVQA_dataset   （只有柱状图）
 
 LEAF-QA ： 
 
-LEAFQA++ : 
+LEAFQA++ :   *https://chartinfo.github.io/schedule.html
 
 PlotQA ： https://github.com/NiteshMethani/PlotQA  
 
