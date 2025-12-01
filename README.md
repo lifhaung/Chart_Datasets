@@ -17,4 +17,5 @@ ArxivQA ： https://mm-arxiv.github.io/
 CharXiv ： https://charxiv.github.io/  
 
 ChartX ： https://github.com/Alpha-Innovator/ChartVLM  
+
 ChartBench ： https://chartbench.github.io/  
