@@ -2,13 +2,17 @@
 ## 数据集链接
 <img width="1089" height="276" alt="image" src="https://github.com/user-attachments/assets/411738b0-a0bb-4172-84ac-8a32137b71c4" />  
 
-ChartQA ： https://github.com/vis-nlp/ChartQA  
+ChartQA ： https://github.com/vis-nlp/ChartQA   
 
-FigureQA ： https://github.com/Maluuba/FigureQA  
+FigureQA ： https://github.com/Maluuba/FigureQA  （只有yes/no type questions）
+
+DVQA ： https://github.com/kushalkafle/DVQA_dataset   （只有柱状图）
+
+LEAF-QA ： 
+
+LEAFQA++ : 
 
 PlotQA ： https://github.com/NiteshMethani/PlotQA  
-
-DVQA ： https://github.com/kushalkafle/DVQA_dataset  
 
 SciGraphQA ： https://github.com/lifhaung/SciGraphQA  
 
