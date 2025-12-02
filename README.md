@@ -20,6 +20,8 @@ PlotQA ： https://github.com/NiteshMethani/PlotQA
 
 ChartQA ： https://github.com/vis-nlp/ChartQA   
 
+OpenCQA : https://github.com/vis-nlp/OpenCQA
+
 ChartBench ： https://chartbench.github.io/  
 
 ChartX ： https://github.com/Alpha-Innovator/ChartVLM  
