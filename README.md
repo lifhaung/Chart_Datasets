@@ -20,12 +20,16 @@ PlotQA ： https://github.com/NiteshMethani/PlotQA
 
 ChartQA ： https://github.com/vis-nlp/ChartQA   
 
+ChartBench ： https://chartbench.github.io/  
+
+ChartX ： https://github.com/Alpha-Innovator/ChartVLM  
+
+MMC :  https:  //github.com/FuxiaoLiu/MMC
+
+CharXiv ： https://charxiv.github.io/  
+
 SciGraphQA ： https://github.com/lifhaung/SciGraphQA  
 
 ArxivQA ： https://mm-arxiv.github.io/  
 
-CharXiv ： https://charxiv.github.io/  
 
-ChartX ： https://github.com/Alpha-Innovator/ChartVLM  
-
-ChartBench ： https://chartbench.github.io/  
